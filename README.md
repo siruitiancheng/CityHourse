@@ -11,7 +11,7 @@
     4.注册“阿布云”代理网站获得免费http动态代理试用机会
     5.在 proxy_ip.py 中填入自己的代理隧道验证信息（proxyUser = "****"，proxyPass = "****"）
     6.打开city_hourse.py文件，换上自己的请求头。
-		7.运行city_hourse.py文件
+    7.运行city_hourse.py文件
 		
 
 
