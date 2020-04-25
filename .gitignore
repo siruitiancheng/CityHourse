@@ -1,0 +1,12 @@
+#路径
+/.idea/
+/.vscode/
+__pycache__
+/venv/
+.gitattributes
+
+#匹配
+*.log
+/log
+*.DS_Store
+data.ini
